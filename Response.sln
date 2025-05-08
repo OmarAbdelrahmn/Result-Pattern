@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Result Pattern", "Result Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseHandler", "ResponseHandler\ResponseHandler.csproj", "{B7721965-4D21-458B-96B2-803CE68F070D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseResponse", "BaseResponse\BaseResponse.csproj", "{5DCDC1C5-6679-41C2-89C3-E1F65F2705F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B7721965-4D21-458B-96B2-803CE68F070D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7721965-4D21-458B-96B2-803CE68F070D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7721965-4D21-458B-96B2-803CE68F070D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DCDC1C5-6679-41C2-89C3-E1F65F2705F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCDC1C5-6679-41C2-89C3-E1F65F2705F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCDC1C5-6679-41C2-89C3-E1F65F2705F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCDC1C5-6679-41C2-89C3-E1F65F2705F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
